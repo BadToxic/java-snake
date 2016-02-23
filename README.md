@@ -1,5 +1,9 @@
 # Java Snake
 
+[Java Snake on my homepage](http://badtoxic.de/wordpress/edutainment/java-snake "Java Snake Site")
+
+----
+
 A simple snake game, mainly consisting of simple constructs which are subject in a first semester computer science. It consists of two classes, the executable Snake.java and SnakePart.java which Represents a part of the body of the snake.
 In the foreground are operations on a 2D array as a game field, simple query constructs (Is the box to the right of me in the field? Is there something to eat? ...), a linked list as snake and recursive calls on this.
 Something, outgoing is the use of Frames for visualization and a KeyListener, for the detection of keystrokes.
@@ -16,3 +20,7 @@ Etwas weiterführend ist die Verwendung von Frames zur visualisierung und einem 
 
 
 Gesteuert wird per WASD. Das Spiel kann noch nicht verloren werden - dieser Teil bietet sich, nach dem Verstehen des Codes, zum üben an, um den Quelltext um Kollisionsbehandlung zu erweitern.
+
+----
+
+![Screenshot of the game](https://github.com/BadToxic/java-snake/blob/master/SnakeScreen.png "Screenshot of the game")
